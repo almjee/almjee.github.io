@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://almjee.github.io/ZfM/sitemap.ZfM.gz
